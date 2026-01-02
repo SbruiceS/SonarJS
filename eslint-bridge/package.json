@@ -59,7 +59,7 @@
     "eslint-plugin-react": "7.31.8",
     "eslint-plugin-react-hooks": "4.6.0",
     "eslint-plugin-sonarjs": "0.16.0",
-    "express": "4.21.2",
+    "express": "4.22.0",
     "functional-red-black-tree": "1.0.1",
     "lodash.clone": "4.5.0",
     "module-alias": "2.2.2",
